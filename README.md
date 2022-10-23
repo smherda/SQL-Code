@@ -1,6 +1,6 @@
 # SQL-Code
 
-This directory contains code that I wrote in MSSQL.  
+This directory contains code that I wrote in SQL.  
  
 ## Installation
  
