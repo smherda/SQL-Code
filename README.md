@@ -1,4 +1,4 @@
-# R-Code
+# SQL-Code
 
 This directory contains code that I wrote in MSSQL.  
  
