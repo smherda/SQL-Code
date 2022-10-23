@@ -4,7 +4,7 @@ This directory contains code that I wrote in MSSQL.
  
 ## Installation
  
-Make sure to have the most recent version of R installed with the appropriate libraries associated with each script. 
+Make sure to have the most recent version of MSSQL installed. 
   
 ## Usage
  
