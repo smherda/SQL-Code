@@ -16,7 +16,7 @@ Feel free to use standard GitHub commands to fork, create branches, commit chang
 
 ## History
  
-Version 1 (2022-10-22) - Created directorya and uploaded scripts.
+Version 1 (2022-10-22) - Created directory and uploaded scripts.
 
 ## Credits
 
